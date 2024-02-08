@@ -1,0 +1,8 @@
+npm init -y
+node nomedoarquivo.js  (esse roda o servidor uma vez)
+npm rum dev (esse sobe o servidor)
+npm install nodemon@3.0.1 (arquivos para rodar o servidor)
+npm install express@4.8.1
+npm install mongodb
+npm install mongoose@7.3.4
+DB_CONNECTION_STRING = mongodb+srv://admin:admin123@cluster0.qywb1fl.mongodb.net/livraria?retryWrites=true&w=majority;
